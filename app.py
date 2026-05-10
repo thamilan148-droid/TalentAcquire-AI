@@ -20,7 +20,7 @@ with st.sidebar:
     predict_btn = st.button("Evaluate Candidate 🚀")
 
 # 3. Model & Data
-file_path = r'C:\Users\Tamilan\OneDrive\Documents\Student_Project\Student__data.csv'
+file_path ='Student_data.csv'
 df = pd.read_csv(file_path)
 X = df[['Sem_Percentage', 'Attendance', 'Internships', 'Skill_Level']]
 y = df['Performance_Labal']
