@@ -1,13 +1,13 @@
-﻿Name,Sem_Percentage,Attendance,Internships,Skill_Level,Performance_Labal
-Kumar,85,90,2,9,Best
-Priya,72,82,1,7,Average
-Akash,55,65,0,4,poor
-Sneha,88,95,1,8,Best
-Rajesh,68,78,0,5,Average
-Tamil ,86,89,2,8,Best
-Kavin,67,90,1,7,Average
-Hari,80,78,2,7,Best
-Vino,70,80,1,6,poor
-Praveen,89,85,2,7,Best
-Kiran,85,83,2,8,Best
-Kishore,84,80,3,7,Best
+﻿Name,Sem_Percentage,Attendance,Internships,Skill_Level
+Kumar,85,90,2,9
+Priya,72,82,1,7
+Akash,55,65,0,4
+Sneha,88,95,1,8
+Rajesh,68,78,0,5
+Tamil ,86,89,2,8
+Kavin,67,90,1,7
+Hari,80,78,2,7
+Vino,70,80,1,6
+Praveen,89,85,2,7
+Kiran,85,83,2,8
+Kishore,84,80,3,7
